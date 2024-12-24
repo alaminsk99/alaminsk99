@@ -1,5 +1,5 @@
 # Hi, I'm Alamin Sk! 👋
-![](https://github-readme-stats.vercel.app/api?username=alaminsk99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alaminsk99&theme=blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 # 🚀 About Me
